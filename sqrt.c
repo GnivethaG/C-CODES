@@ -1,4 +1,5 @@
 #include<stdio.h>
+//#include<stdlib.h>
 int mySqrt(int x){
 
     double num;
