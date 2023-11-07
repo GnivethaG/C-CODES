@@ -4,7 +4,7 @@ void main()
     int ne,i,sum=0,target=18;
     printf("Enter the number of employees");
     scanf("%d",&ne);
-    int a[ne];
+    int a[100];
     printf("Enter the candies sold by each employee");
     for(i=1;i<=ne;i++)
     {
